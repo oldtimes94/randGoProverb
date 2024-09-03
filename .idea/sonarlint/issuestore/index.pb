@@ -1,0 +1,7 @@
+
+7
+main.go,0/6/0607f785dfa3c3861b3239f6723eb276d8056461
+;
+proverbs.go,d/4/d438d5abe99e859d3a0d20824b5a9018d4a8cb5b
+F
+pkg/proverb/proverb.go,e/9/e99e1f6ba2343d91ccb0e8946050f91589456b80
